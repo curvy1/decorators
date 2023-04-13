@@ -1,0 +1,4 @@
+date_time: 2023-02-14 06:57:43.934158, name_function: flat_generator, value: (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}), result: <generator object test_1.<locals>.flat_generator at 0x0000026A90E457E0>
+date_time: 2023-02-14 06:57:43.934158, name_function: flat_generator, value: (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}), result: <generator object test_1.<locals>.flat_generator at 0x0000026A90E457E0>
+date_time: 2023-02-14 06:57:43.934158, name_function: flat_generator, value: (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}), result: <generator object test_1.<locals>.flat_generator at 0x0000026A90E457E0>
+date_time: 2023-02-14 06:57:43.934158, name_function: test_2, value: ((), {}), result: None
